@@ -24,7 +24,7 @@ def getlist():
 """
 
 """
-# Here for person B
+
 
 def getcontent( url ):
 	s = requests.session()
