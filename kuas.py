@@ -39,7 +39,7 @@ def getcontent( url ):
 """
 
 """
-# Here for person A again
+
 
 if __name__ == '__main__':
 	News = getlist()
